@@ -20,6 +20,9 @@ Then, add the following line to crontab window:
 
 `@hourly ~/Path/to/cloned/repo/runBackground.sh`
 
+# Contributing
+
+Please read CONTRIBUTING.md to learn how to contribute
 
 # TODO's
 * add init script
